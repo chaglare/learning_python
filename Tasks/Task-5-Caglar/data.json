@@ -1,0 +1,94 @@
+{
+  "items" : [ {
+    "id" : "d2VicGxhdGZvcm06Yzc3MDE2OWMwYjJlM2VkODUzYTc3Mjk4Y2UzYTgyNzU",
+    "repository" : "webplatform",
+    "format" : "docker",
+    "group" : null,
+    "name" : "webplatform-qa",
+    "version" : "0.27",
+    "assets" : [ {
+      "downloadUrl" : "https://nexus.fuchicorp.com/repository/webplatform/v2/webplatform-qa/manifests/0.27",
+      "path" : "v2/webplatform-qa/manifests/0.27",
+      "id" : "d2VicGxhdGZvcm06MzZlM2RlYzhkZTUyOGM5YjhmNDM5NmZkYmY2MTllZWI",
+      "repository" : "webplatform",
+      "format" : "docker",
+      "checksum" : {
+        "sha1" : "d091baea493486e1293736c7a01bc637de3e35d9",
+        "sha256" : "129daa1b75d5ab2bec907dfd1541169fb15d9df94aef0c91a8c40a739240317b"
+      }
+    } ]
+  }, {
+    "id" : "d2VicGxhdGZvcm06Yzc3MDE2OWMwYjJlM2VkOGVmMzU2YWE0ZTliMmZlNDY",
+    "repository" : "webplatform",
+    "format" : "docker",
+    "group" : null,
+    "name" : "webplatform-prod",
+    "version" : "0.23",
+    "assets" : [ {
+      "downloadUrl" : "https://nexus.fuchicorp.com/repository/webplatform/v2/webplatform-prod/manifests/0.23",
+      "path" : "v2/webplatform-prod/manifests/0.23",
+      "id" : "d2VicGxhdGZvcm06MzZlM2RlYzhkZTUyOGM5YjZhZWQzOGI0YzgxZjFlZjg",
+      "repository" : "webplatform",
+      "format" : "docker",
+      "checksum" : {
+        "sha1" : "aa91c4ab344ece99c2f97f4a31499b183377f947",
+        "sha256" : "ca0bed7e3e4140b19fceb23df483db4ec64039b4bf02c2e1ac1dfb8c39801244"
+      }
+    } ]
+  }, {
+    "id" : "d2VicGxhdGZvcm06Yzc3MDE2OWMwYjJlM2VkODM1NzM2OGI0M2Q0ZGEzZDg",
+    "repository" : "webplatform",
+    "format" : "docker",
+    "group" : null,
+    "name" : "webplatform-dev",
+    "version" : "0.36",
+    "assets" : [ {
+      "downloadUrl" : "https://nexus.fuchicorp.com/repository/webplatform/v2/webplatform-dev/manifests/0.36",
+      "path" : "v2/webplatform-dev/manifests/0.36",
+      "id" : "d2VicGxhdGZvcm06MzZlM2RlYzhkZTUyOGM5YjA5YjhmZDllMjUxNjJmYTg",
+      "repository" : "webplatform",
+      "format" : "docker",
+      "checksum" : {
+        "sha1" : "c5af14599fed0daf276b7a83f16cce7ffeaee403",
+        "sha256" : "b89c4cb05469e7235609a498e170f2c3ff16b6c369e87e2e6380cf2bd565f08a"
+      }
+    } ]
+  }, {
+    "id" : "d2VicGxhdGZvcm06Yzc3MDE2OWMwYjJlM2VkODhhN2FhMjRiMWY4YzFiMTk",
+    "repository" : "webplatform",
+    "format" : "docker",
+    "group" : null,
+    "name" : "api-platform-prod",
+    "version" : "0.1",
+    "assets" : [ {
+      "downloadUrl" : "https://nexus.fuchicorp.com/repository/webplatform/v2/api-platform-prod/manifests/0.1",
+      "path" : "v2/api-platform-prod/manifests/0.1",
+      "id" : "d2VicGxhdGZvcm06MzZlM2RlYzhkZTUyOGM5YjA1MGIxZGJlNThmMDIwNjY",
+      "repository" : "webplatform",
+      "format" : "docker",
+      "checksum" : {
+        "sha1" : "284db259c27b39ac0515d2d7384d3d1d281300ce",
+        "sha256" : "0e418318697e752b75ed2ead538783e0ec23e4e54b06f0bdf7e0b84fc0a0c03c"
+      }
+    } ]
+  }, {
+    "id" : "d2VicGxhdGZvcm06Yzc3MDE2OWMwYjJlM2VkOGY2ZDY5ZjQzMWRmYzE4ODU",
+    "repository" : "webplatform",
+    "format" : "docker",
+    "group" : null,
+    "name" : "api-platform-prod",
+    "version" : "0.4",
+    "assets" : [ {
+      "downloadUrl" : "https://nexus.fuchicorp.com/repository/webplatform/v2/api-platform-prod/manifests/0.4",
+      "path" : "v2/api-platform-prod/manifests/0.4",
+      "id" : "d2VicGxhdGZvcm06MzZlM2RlYzhkZTUyOGM5YjYxZTM4NDgzNzQwODNmM2Q",
+      "repository" : "webplatform",
+      "format" : "docker",
+      "checksum" : {
+        "sha1" : "b821f643b7438430d072a20b4ca4585c84407119",
+        "sha256" : "d351bab79222f801ba362245e14b1975c9db04943eca149859b7da70719c6269"
+      }
+    } ]
+  } ],
+  "continuationToken" : null
+}
